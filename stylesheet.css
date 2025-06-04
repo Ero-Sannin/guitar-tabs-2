@@ -61,3 +61,7 @@ header {
     color:grey;
     align-self: center;
  }
+
+.song-item:hover{
+    color: #6a0dad;
+}
